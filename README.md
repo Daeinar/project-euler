@@ -1,1 +1,1 @@
-My [Project Euler](https://projecteuler.net) repository.
+[Project Euler](https://projecteuler.net) repository.
